@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Streamlit cache
+.streamlit/
+
+# Secrets
+.streamlit/secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dataset files (optional, if large)
+#data/
+#*.csv
+#*.xlsx
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
