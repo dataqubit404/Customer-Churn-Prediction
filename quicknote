@@ -1,0 +1,2 @@
+python3 --version = 3.11.14
+python -m streamlit run app.py (For running)
