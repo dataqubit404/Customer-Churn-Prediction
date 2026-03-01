@@ -7,6 +7,15 @@ This is the <b>beginning of a larger vision</b>: a comprehensive customer retent
 Built with <b>Python</b> and <b>Streamlit</b>, featuring an elegant glassmorphism UI and interactive prediction cards.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python">
+  <img src="https://img.shields.io/badge/Streamlit-Web%20App-red?logo=streamlit">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas">
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy">
+  <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikitlearn">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+</p>
 ---
 
 ## 🚀 Project Overview
