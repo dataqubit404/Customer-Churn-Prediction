@@ -1,5 +1,7 @@
 <h1 align="center">🚀 Customer Churn AI</h1>
 
+### 🚀 Live Demo : https://customer-churn-predictionv1.streamlit.app/
+
 <p align="center">
 An AI-powered platform that predicts customer churn risk.  
 This is the <b>beginning of a larger vision</b>: a comprehensive customer retention system with dashboards, personalized suggestions, and enhanced predictive models across multiple industries.
