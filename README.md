@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Customer Churn AI</h1>
 
-### 🚀 Live Demo : https://customer-churn-predictionv1.streamlit.app/
+ 🚀 Live Demo : https://customer-churn-predictionv1.streamlit.app/
 
 <p align="center">
 An AI-powered platform that predicts customer churn risk.  
